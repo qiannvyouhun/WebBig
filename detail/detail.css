@@ -147,13 +147,13 @@ div{
 .black{
 	height: 40px;
 	width: 100%;
-	background: black;
+	background:#333333;
 }
 .black-box{
 	height: 40px;
 	width: 1180px;
 	margin:0 auto;
-	background: black;
+	background: #333333;
 }
 .block-font{
 	margin:0 43px 0 30px;
